@@ -43,7 +43,7 @@ A simple, interactive basketball scoreboard application built with HTML, CSS, an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/DHRUV7801/basketball-scoreboard.git
+   git clone https://github.com/dhruv-7808/basketball-scoreboard.git
    ```
 
 2. **Navigate to the project directory**
@@ -234,7 +234,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Dhruv Goyal**
 
-- GitHub: [@DHRUV7801](https://github.com/DHRUV7801)
+- GitHub: [@dhruv-7808](https://github.com/dhruv-7808)
 - LinkedIn: [Dhruv Goyal](https://www.linkedin.com/in/dhruv-goyal-494991313)
 - Twitter: [@Dhruvgm78](https://x.com/Dhruvgm78)
 
@@ -248,7 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 
-1. Check the [Issues](https://github.com/DHRUV7801/basketball-scoreboard/issues) page
+1. Check the [Issues](https://github.com/dhruv-7808/basketball-scoreboard/issues) page
 2. Create a new issue if your problem isn't already listed
 3. Contact me via email or social media
 
